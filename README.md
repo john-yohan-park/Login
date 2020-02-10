@@ -1,5 +1,5 @@
 # MERN Log In
-Fullstack Web Application using MongoDB, Express, React, and Node.js
+Fullstack Web App using MongoDB, Express, React, and Node.js
 
 `cd` into `MERN-Login`</br></br>
 // Install dependencies for server & client </br>
